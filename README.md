@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+//Entrega 1 - Spotify Clon
